@@ -1,0 +1,9 @@
+openai
+pinecone-client
+streamlit
+streamlit-chat
+pandas
+numpy
+pytube
+python-dotenv
+
