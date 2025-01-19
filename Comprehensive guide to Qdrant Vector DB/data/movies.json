@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Sholay",
+        "description": "Two ex-convicts are hired by a retired policeman to capture a ruthless dacoit terrorizing a village.",
+        "director": "Ramesh Sippy",
+        "year": 1975
+    },
+    {
+        "name": "Lagaan",
+        "description": "Villagers unite to play a cricket match against British officers to abolish oppressive taxes.",
+        "director": "Ashutosh Gowariker",
+        "year": 2001
+    },
+    {
+        "name": "Mughal-e-Azam",
+        "description": "A prince falls in love with a court dancer, leading to a tragic conflict with his father, the emperor.",
+        "director": "K. Asif",
+        "year": 1960
+    },
+    {
+        "name": "Dangal",
+        "description": "A former wrestler trains his daughters to become world-class wrestlers against societal odds.",
+        "director": "Nitesh Tiwari",
+        "year": 2016
+    },
+    {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "description": "A young couple falls in love during a trip to Europe but must overcome familial objections.",
+        "director": "Aditya Chopra",
+        "year": 1995
+    },
+    {
+        "name": "3 Idiots",
+        "description": "Three engineering students navigate the pressures of academia while challenging societal norms.",
+        "director": "Rajkumar Hirani",
+        "year": 2009
+    },
+    {
+        "name": "Barfi!",
+        "description": "The heartwarming tale of a mute and deaf man and his relationships with two women.",
+        "director": "Anurag Basu",
+        "year": 2012
+    },
+    {
+        "name": "Gully Boy",
+        "description": "A young man from the slums of Mumbai rises to fame as a rapper, inspired by his challenging life.",
+        "director": "Zoya Akhtar",
+        "year": 2019
+    },
+    {
+        "name": "Mother India",
+        "description": "A poor villager struggles to raise her sons and fight against exploitation while maintaining her moral integrity.",
+        "director": "Mehboob Khan",
+        "year": 1957
+    },
+    {
+        "name": "Taare Zameen Par",
+        "description": "A dyslexic boy discovers his artistic talent with the help of a compassionate teacher.",
+        "director": "Aamir Khan",
+        "year": 2007
+    },
+    {
+        "name": "Andhadhun",
+        "description": "A blind pianist becomes entangled in a murder mystery with unexpected twists.",
+        "director": "Sriram Raghavan",
+        "year": 2018
+    },
+    {
+        "name": "Pyaasa",
+        "description": "A struggling poet seeks recognition for his work while exploring themes of love and societal rejection.",
+        "director": "Guru Dutt",
+        "year": 1957
+    },
+    {
+        "name": "Kantara",
+        "description": "A man becomes a reluctant hero when his village faces an existential crisis involving tradition and greed.",
+        "director": "Rishab Shetty",
+        "year": 2022
+    }
+]

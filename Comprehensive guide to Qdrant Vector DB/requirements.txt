@@ -1,0 +1,6 @@
+langchain
+sentence_transformers
+torch
+pypdf
+langchain_qdrant
+json
